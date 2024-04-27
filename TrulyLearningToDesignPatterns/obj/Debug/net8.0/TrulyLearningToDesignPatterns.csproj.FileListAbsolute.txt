@@ -1,0 +1,14 @@
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\bin\Debug\net8.0\TrulyLearningToDesignPatterns.exe
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\bin\Debug\net8.0\TrulyLearningToDesignPatterns.deps.json
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\bin\Debug\net8.0\TrulyLearningToDesignPatterns.runtimeconfig.json
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\bin\Debug\net8.0\TrulyLearningToDesignPatterns.dll
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\bin\Debug\net8.0\TrulyLearningToDesignPatterns.pdb
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\obj\Debug\net8.0\TrulyLearningToDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\obj\Debug\net8.0\TrulyLearningToDesignPatterns.AssemblyInfoInputs.cache
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\obj\Debug\net8.0\TrulyLearningToDesignPatterns.AssemblyInfo.cs
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\obj\Debug\net8.0\TrulyLearningToDesignPatterns.csproj.CoreCompileInputs.cache
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\obj\Debug\net8.0\TrulyLearningToDesignPatterns.dll
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\obj\Debug\net8.0\refint\TrulyLearningToDesignPatterns.dll
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\obj\Debug\net8.0\TrulyLearningToDesignPatterns.pdb
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\obj\Debug\net8.0\TrulyLearningToDesignPatterns.genruntimeconfig.cache
+c:\Users\aleja\OneDrive\Escritorio\TrulyLearningDesignPatterns\TrulyLearningToDesignPatterns\obj\Debug\net8.0\ref\TrulyLearningToDesignPatterns.dll
